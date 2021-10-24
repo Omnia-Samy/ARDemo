@@ -1,0 +1,6 @@
+framework module Pods_SceneKitDemo_SceneKitDemoUITests {
+  umbrella header "Pods-SceneKitDemo-SceneKitDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
